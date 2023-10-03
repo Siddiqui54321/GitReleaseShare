@@ -1,0 +1,12 @@
+How To Apply:
+-------------
+
+	1. Replace the existing with the below files in bin folder and take backup of previous one
+		
+		a. Bancassurance.dll
+		b. Bancassurance.pdb
+
+	2. Replace the existing with the below files in Presentation folder and take backup of previous one
+		
+		a. shgn_ss_se_stdscreen_ILUS_ET_NM_PER_PERSONALDET.aspx
+	

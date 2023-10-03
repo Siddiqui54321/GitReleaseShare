@@ -1,0 +1,19 @@
+GBA - RELEASE NOTES
+------------------------------
+
+Files list in patch:
+--------------------
+
+	1. 
+		a. Bancassurance.dll
+		b. Bancassurance.pdb
+
+	2. 
+		a. shgn_ss_se_stdscreen_ILUS_ET_NM_PER_PERSONALDET.aspx
+
+
+Purpose
+--------
+	Remove not null validation from 2nd Referee.
+
+		 
